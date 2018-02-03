@@ -1,0 +1,1 @@
+scrapy crawl author -o authors.csv
